@@ -8,27 +8,27 @@ The repository is created when working on the following YouTube video [PHP Devel
 
 ## Table of Contents
 
-1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**
-2. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**
-3. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
-4. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
-5. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
-6. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
-7. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-8. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
-9. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
-10. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
-11. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
-12. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-13. **[What is API](https://github.com/thecodeholic/php-developer-roadmap#what-is-api)**
-14. **[Learn Existing Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
-15. **[Learn JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-16. **[Basics of JavaScript Frameworks](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript-frameworks)**
-17. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
-18. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-19. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**
-20. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+1. **[How Internet & Websites works](#how-internet--websites-works)**
+2. **[Browser/Server request flow, HTTP Protocol, Status codes](#browserserver-request-flow-http-protocol-status-codes)**
+3. **[Basics of HTML/CSS](#basics-of-htmlcss)**
+4. **[Basics of Javascript](#basics-of-javascript)**
+5. **[Introduction to Databases](#introduction-to-databases)**
+6. **[Version Control System (Git & Github)](#version-control-system-git--github)**
+7. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
+8. **[Understanding Composer](#understanding-composer)**
+9. **[PHP beginner projects](#php-beginner-projects)**
+10. **[Object Oriented PHP](#object-oriented-php)**
+11. **[Build Projects](#build-projects)**
+12. **[Build custom MVC Framework](#build-custom-mvc-framework)**
+13. **[What is API](#what-is-api)**
+14. **[Learn Existing Framework](#learn-existing-framework)**
+15. **[Learn JavaScript](#learn-javascript)**
+16. **[Basics of JavaScript Frameworks](#basics-of-javascript-frameworks)**
+17. **[Build Projects with existing frameworks](#build-projects-with-existing-frameworks)**
+18. **[Get Familiar with Terminal](#get-familiar-with-terminal)**
+19. **[Editors/IDEs](#editorsides)**
+20. **[Docker](#docker)**
+21. **[Design Patterns](#design-patterns)**
 ------
 
 ### How Internet & Websites works
